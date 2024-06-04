@@ -1,0 +1,26 @@
+.logo2 {
+    position:absolute;
+    width: 10vw;
+    left: 3vw;
+    top: 4vw;
+}
+.contain { 
+    background-image: url("../img/pattern.png");
+    background-size: 500px;
+    background-color: #4a96d8;
+    text-align: center;
+} 
+#logo { 
+    margin-top: 20px;
+    height: 130px;
+ } 
+#pattern { 
+    position: absolute; 
+    right: 65vw;
+} 
+img[alt="tim-1"] {
+    width: 45vw;
+}
+img[alt="tim-2"] {
+    width: 81vh;
+}
