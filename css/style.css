@@ -18,6 +18,13 @@
     position: absolute; 
     right: 65vw;
 } 
+th {
+    background-color: blue;
+    color: white;
+}
+.azure {
+    background-color: #58c8fc;
+}
 img[alt="tim-1"] {
     width: 45vw;
 }
